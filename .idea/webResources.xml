@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebResourcesPaths">
+    <contentEntries>
+      <entry url="file://$PROJECT_DIR$">
+        <entryData>
+          <resourceRoots>
+            <path value="file://$PROJECT_DIR$/vendor" />
+            <path value="file://$PROJECT_DIR$/vendor/aws" />
+            <path value="file://$PROJECT_DIR$/vendor/barryvdh" />
+            <path value="file://$PROJECT_DIR$/vendor/bin" />
+            <path value="file://$PROJECT_DIR$/vendor/classpreloader" />
+            <path value="file://$PROJECT_DIR$/vendor/composer" />
+            <path value="file://$PROJECT_DIR$/vendor/dnoegel" />
+            <path value="file://$PROJECT_DIR$/vendor/doctrine" />
+            <path value="file://$PROJECT_DIR$/vendor/fzaninotto" />
+            <path value="file://$PROJECT_DIR$/vendor/guzzlehttp" />
+            <path value="file://$PROJECT_DIR$/vendor/h4cc" />
+            <path value="file://$PROJECT_DIR$/vendor/hamcrest" />
+            <path value="file://$PROJECT_DIR$/vendor/intervention" />
+            <path value="file://$PROJECT_DIR$/vendor/jakub-onderka" />
+            <path value="file://$PROJECT_DIR$/vendor/jeremeamia" />
+            <path value="file://$PROJECT_DIR$/vendor/knplabs" />
+            <path value="file://$PROJECT_DIR$/vendor/laravel" />
+            <path value="file://$PROJECT_DIR$/vendor/league" />
+            <path value="file://$PROJECT_DIR$/vendor/mockery" />
+            <path value="file://$PROJECT_DIR$/vendor/monolog" />
+            <path value="file://$PROJECT_DIR$/vendor/mtdowling" />
+            <path value="file://$PROJECT_DIR$/vendor/nesbot" />
+            <path value="file://$PROJECT_DIR$/vendor/nikic" />
+            <path value="file://$PROJECT_DIR$/vendor/paragonie" />
+            <path value="file://$PROJECT_DIR$/vendor/phpdocumentor" />
+            <path value="file://$PROJECT_DIR$/vendor/phpspec" />
+            <path value="file://$PROJECT_DIR$/vendor/phpunit" />
+            <path value="file://$PROJECT_DIR$/vendor/psr" />
+            <path value="file://$PROJECT_DIR$/vendor/psy" />
+            <path value="file://$PROJECT_DIR$/vendor/sebastian" />
+            <path value="file://$PROJECT_DIR$/vendor/spomky-labs" />
+            <path value="file://$PROJECT_DIR$/vendor/studio-42" />
+            <path value="file://$PROJECT_DIR$/vendor/swiftmailer" />
+            <path value="file://$PROJECT_DIR$/vendor/symfony" />
+            <path value="file://$PROJECT_DIR$/vendor/vlucas" />
+            <path value="file://$PROJECT_DIR$/vendor/webmozart" />
+          </resourceRoots>
+        </entryData>
+      </entry>
+    </contentEntries>
+  </component>
+</project>
